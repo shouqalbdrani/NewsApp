@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">أخبار السعودية</string>
+    <string name="change_language">تغيير اللغة</string>
+    <string name="search">بحث</string>
+    <string name="dark_mode">الوضع الداكن</string>
+    <string name="light_mode">الوضع الفاتح</string>
+    <string name="content">المحتوى</string>
+
+        <string name="article_title_1">اكتشاف أنواع نباتية جديدة في نيوم</string>
+        <string name="article_content_1">حددت وزارة البيئة والمياه والزراعة (MEWA) ونيوم أنواعًا نباتية أصلية لم يتم تسجيلها سابقًا في المملكة العربية السعودية.</string>
+
+        <string name="article_title_2">سيمنز إنرجي تحصل على مشروع محطة طاقة بقيمة 1.6 مليار</string>
+        <string name="article_content_2">حصلت سيمنز إنرجي على عقد بقيمة 1.6 مليار لتوريد التكنولوجيا لمحطتين تعملان بالغاز في المملكة العربية السعودية.</string>
+
+        <string name="article_title_3">استحواذ شركة Scopely السعودية على Pokémon Go بقيمة 3.5 مليار</string>
+        <string name="article_content_3">اشترت شركة Scopely، المطور السعودي لألعاب الفيديو، لعبة Pokémon Go وتطبيقات أخرى من Niantic مقابل 3.5 مليار دولار.</string>
+
+        <string name="article_title_4">جدل حول المسلسل السعودي "معاوية"</string>
+        <string name="article_content_4">أثار الإنتاج السعودي "معاوية"، مسلسل تلفزيوني بقيمة 100 مليون دولار يصور حياة الخليفة الأموي معاوية بن أبي سفيان، جدلاً في الشرق الأوسط.</string>
+
+        <string name="article_title_5">اكتشاف خمس أنواع جديدة للعلم العالمي في المحمية الملكية</string>
+        <string name="article_content_5">أعلنت محمية الأمير محمد بن سلمان الملكية عن اكتشاف خمس أنواع جديدة للعلم العالمي، وثلاثة أنواع لم يتم تسجيلها سابقًا في المملكة العربية السعودية، و34 نوعًا جديدًا يوسع النطاق العالمي.</string>
+
+        <string name="article_title_6">سجل صادرات أوبك+ للوقود وسط تخفيضات إمدادات النفط الخام</string>
+        <string name="article_content_6">على الرغم من قيام أعضاء أوبك+ بخفض إنتاج النفط الخام، فقد أدى ارتفاع صادرات المنتجات النفطية المكررة إلى تقليل تأثير ذلك على الإمدادات العالمية.</string>
+
+
+</resources>

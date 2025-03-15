@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Saudi News</string>
+    <string name="change_language">Change Language</string>
+    <string name="search">Search</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="content">Content</string>
+
+
+    <string name="article_title_1">Discovery of New Native Plant Species in NEOM</string>
+    <string name="article_content_1">The Ministry of Environment, Water, and Agriculture (MEWA) and NEOM have identified native plant species previously unrecorded in Saudi Arabia.</string>
+
+    <string name="article_title_2">Siemens Energy Secures 1.6 Billion Power Plant Project</string>
+    <string name="article_content_2">Siemens Energy has been awarded a 1.6 billion contract to supply technology for two gas-fired power plants in Saudi Arabia.</string>
+
+    <string name="article_title_3">Saudi-Owned Scopely Acquires Pokémon Go in 3.5 Billion Deal</string>
+    <string name="article_content_3">Scopely, a Saudi-owned game developer, has purchased Pokémon Go and other apps from Niantic for $3.5 billion.</string>
+
+    <string name="article_title_4">Controversial Saudi TV Series Muawiya Debuts</string>
+    <string name="article_content_4">The Saudi production Muawiya,a 100 million TV series portraying the life of the early Islamic ruler Muawiya ibn Abi Sufyan, has stirred controversy in the Middle East.</string>
+
+    <string name="article_title_5">Discovery of Five Species New to Global Science in Royal Reserve</string>
+    <string name="article_content_5">The Prince Mohammed bin Salman Royal Reserve announced the discovery of five species new to global science, three species previously unrecorded in Saudi Arabia, and 34 new global range extensions.</string>
+
+    <string name="article_title_6">Record OPEC+ Fuel Exports Amid Crude Supply Cuts</string>
+    <string name="article_content_6">Despite OPEC+ members cutting crude oil output, increased exports of refined fuel products have lessened the impact on global supply.</string>
+</resources>
