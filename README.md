@@ -5,12 +5,12 @@ A modern Android News Reader app built using Jetpack Compose and Kotlin, featuri
 
 ## Setup Instruction:
 - Clone the reopsitory
--Choose the cloned newsapp directory.
--Sync Gradle:
--Android Studio will prompt you to sync the Gradle files. Click "Sync Now."
--Run the App:
--Select a virtual device (AVD) or connect a physical device.
--Click the "Run" button to build and launch the app.
+- Choose the cloned newsapp directory.
+- Sync Gradle:
+- Android Studio will prompt you to sync the Gradle files. Click "Sync Now."
+- Run the App:
+- Select a virtual device (AVD) or connect a physical device.
+- Click the "Run" button to build and launch the app.
 
 ## Features implemented:
 News Feed with dynamic content display
